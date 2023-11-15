@@ -1,0 +1,57 @@
+[
+    {
+        "first name": "Ammy",
+        "last name": "Virk",
+        "age": "34",
+        "occupation": "Actor and Singer",
+        "city": "Bathinda"
+    },
+
+    {
+        "first name": "Jassi",
+        "last name": "Gill",
+        "age": "28",
+        "occupation": "Actor and Singer",
+        "city": "Nawashehar"
+    },
+
+    {
+        "first name": "Sonam",
+        "last name": "Bajwa",
+        "age": "29",
+        "occupation": "Actor, Model and Singer",
+        "city": "Chandigarh"
+    },
+
+    {
+        "first name": "Gurlej",
+        "last name": "Akhtar",
+        "age": "37",
+        "occupation": "Singer",
+        "city": "Jalandhar"
+    },
+
+    {
+        "first name": "Amrinder",
+        "last name": "Gill",
+        "age": "26",
+        "occupation": "Actor, Director and Singer",
+        "city": "Ludhiana"
+    },
+
+    {
+        "first name": "Mahira",
+        "last name": "Sharma",
+        "age": "29",
+        "occupation": "Actor and Model",
+        "city": "Mansa"
+    },
+
+    {
+        "first name":"Nirmal",
+        "last name":"Rishi",
+        "age": "57",
+        "occupation": "Actor",
+        "city": "Patiala"
+    }
+]
